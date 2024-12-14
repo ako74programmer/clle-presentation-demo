@@ -12,8 +12,8 @@ Repozytorium zawiera prezentację **"Wprowadzenie do Control Language (CL)"**.
 Control Language (CL) to skryptowy język programowania używany na platformie **IBM i**, który umożliwia automatyzację procesów, zarządzanie środowiskiem pracy oraz kontrolę nad działaniem aplikacji.
 
 W prezentacji omówiono:
-1. **Podstawy CL**:
-2. **Praktyczne zastosowanie**:
+1. **Podstawy CL**
+2. **Praktyczne zastosowanie**
 
 Aby korzystać z materiałów:
 - Dostęp do systemu IBM i.
